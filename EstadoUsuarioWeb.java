@@ -1,0 +1,3 @@
+public enum EstadoUsuarioWeb {
+	NUEVO, ACTIVO, BLOQUEADO_TEMPORALMENTE, PROHIBIDO
+}
